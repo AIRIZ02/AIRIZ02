@@ -20,10 +20,8 @@
 
  </div>
  
-<div align="center">
 ## 🌐 Socials:
-    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AIRIZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?                logo=Instagram&logoColor=white)](https://instagram.com/me_airiz_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AIRIZ) [![X]    (https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AIRIZ) 
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AIRIZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?                logo=Instagram&logoColor=white)](https://instagram.com/me_airiz_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AIRIZ) [![X]    (https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AIRIZ) 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
